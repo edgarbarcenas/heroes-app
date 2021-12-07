@@ -12,7 +12,7 @@ export const HeroCard = ({
   return (
     <div className="col">
       <div className="card">
-        <div className="riw no-gutters">
+        <div className="row">
           <div className="col-4">
             <img src={imagePath} className="card-img" alt={superhero} />
           </div>
